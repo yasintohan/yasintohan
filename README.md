@@ -12,7 +12,7 @@
 
 <h2 align="center">Tech Stack 🛠</h2>
 
-- 💻 &nbsp; <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%23-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
+- 💻 &nbsp; <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%23-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Kotlin-7c6fe1?style=flat&logo=kotlin&logoColor=white">
 
 - 🌐 &nbsp; <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-Php-5A0FC8?style=flat&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&logoColor=white">
 
