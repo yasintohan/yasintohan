@@ -25,11 +25,9 @@ I am a 3rd year student at the department of ``Computer Engineering`` at Eskiseh
 <h2 align="center">Tech Stack 🛠</h2>
 
 
-<a target="_blank">
-  <img align="right" height="150" width="240" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/image.gif">
-</a>
+- 💻 &nbsp; <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%23-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Kotlin-7c6fe1?style=flat&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white&labelColor=3DDC84"> <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white&labelColor=02569B"> 
 
-- 💻 &nbsp; <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%23-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Kotlin-7c6fe1?style=flat&logo=kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white&labelColor=3DDC84"> <img src="https://img.shields.io/badge/Android%20Studio-4285F4?style=flat&logo=Android%20Studio&logoColor=white&labelColor=4285F4">
+- 🖥️ &nbsp; <img src="https://img.shields.io/badge/Android%20Studio-4285F4?style=flat&logo=Android%20Studio&logoColor=white&labelColor=4285F4"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=Visual%20Studio%20Code&logoColor=white&labelColor=007ACC">
 
 - 🌐 &nbsp; <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/-Php-5A0FC8?style=flat&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&logoColor=white">
 
