@@ -3,7 +3,7 @@
 
 <p align="center">
   
-I am a 4rd year student at the department of ``Computer Engineering`` at Eskisehir Technical University. My goal is to develop myself as a ``Mobile Developer``. To achieve this, I argue that one has to be determined and creative, and I shape my life accordingly.
+I am a 4th year student at the department of ``Computer Engineering`` at Eskisehir Technical University. My goal is to develop myself as a ``Mobile Developer``. To achieve this, I argue that one has to be determined and creative, and I shape my life accordingly.
 
 </p>
 
